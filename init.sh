@@ -2,6 +2,7 @@
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 
 # install starship
+brew install starship
 
 # init git
 git config --global init.defaultBranch main

@@ -8,7 +8,7 @@ if status is-interactive
 	alias cdtakaodaze='cd ~/dev/takaodaze'
 	alias cdwebsta='cd ~/dev/weblio/websta'
 	alias git-delete-all-branch='git branch | grep -v "main" | xargs git branch -D'
-	
+
 	# lsd
 	alias ls='lsd'
 
