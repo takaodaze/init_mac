@@ -8,6 +8,7 @@ brew install starship
 git config --global init.defaultBranch main
 
 # install fish
+# change login shell to fish
 
 # install nvim with plugin
 
@@ -18,5 +19,8 @@ git config --global init.defaultBranch main
 # install notion
 
 # install google chrome
+
+# install vscode
+# j,k とか、vim のキーバインドを使えるようにする
 
 # login google
