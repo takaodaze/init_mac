@@ -8,13 +8,14 @@ brew install starship
 git config --global init.defaultBranch main
 
 # install fish
+brew install fish
 # change login shell to fish
 
 # install nvim with plugin
 
 # install nodenv
+brew install nodenv
 # install rust
-
 
 # install notion
 
